@@ -1,7 +1,7 @@
 # challenge_DSA
 This is to wrap up DSA by End of September
 
-Array
+**Array**
 Problem	LeetCode Link	Difficulty Level
 Check if pair with the given Sum exists in Array	Link	Easy
 Best Time to Buy and Sell Stock	Link	Easy
@@ -21,7 +21,8 @@ Merge Intervals	Link	Medium
 Non-overlapping Intervals	Link	Medium
 Set Matrix Zeroes	Link	Medium
 Spiral Matrix	Link	Medium
-Linked List
+
+**Linked List**
 Problem	LeetCode Link	Difficulty Level
 Reverse a Linked List	Link	Easy
 Detect Cycle in a Linked List	Link	Medium
@@ -32,7 +33,8 @@ Reorder List	Link	Medium
 Add 1 to a number represented as linked list	Link	Medium
 Find the middle of a given linked list	Link	Easy
 Delete last occurrence of an item from linked list	Link	Easy
-String
+
+**String**
 Problem	LeetCode Link	Difficulty Level
 Longest Substring Without Repeating Characters	Link	Medium
 Longest Repeating Character Replacement	Link	Medium
@@ -64,14 +66,15 @@ Longest Increasing Subsequence	Link	Medium
 Longest Common Subsequence	Link	Medium
 | Word Break Problem | Link | Medium |
 
-Graph
+**Graph**
 Problem	LeetCode Link	Difficulty Level
 Detect Cycle in a Directed Graph	Link	Medium
 Bridges in a graph	Link	Hard
 Check whether a given graph is Bipartite or not	Link	Medium
 Strongly Connected Components	Link	Hard
 Topological Sorting	Link	Medium
-Miscellaneous
+
+**Miscellaneous**
 Problem	LeetCode Link	Difficulty Level
 Sentence Palindrome	Link	Easy
 Palindromic Substrings	Link	Medium
